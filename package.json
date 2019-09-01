@@ -41,5 +41,13 @@
       "vue-cli-service lint",
       "git add"
     ]
-  }
+  },
+  "description": "## Project setup ``` yarn install ```",
+  "main": ".eslintrc.js",
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "author": "JT Houk <jt1992@gmail.com> (https://jt.houk.space/)",
+  "license": "MIT"
 }
