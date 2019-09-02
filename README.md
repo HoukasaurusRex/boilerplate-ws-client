@@ -56,4 +56,6 @@ Copyright © 2019 [JT Houk <jt1992@gmail.com> (https://jt.houk.space/)](https://
 This project is [MIT](github.com/pterobyte/simply-ws-client/blob/master/LICENSE) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+### TODO:
+- private messaging
+- binary handler
